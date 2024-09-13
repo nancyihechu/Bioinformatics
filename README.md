@@ -6,7 +6,7 @@ This project is part of a multi-part series aimed at building a machine learning
 
 ### Project Structure
 
-This project is divided into multiple parts, with each video demonstrating different stages of the bioinformatics project lifecycle. The main focus is on **data collection, molecular descriptor calculation, exploratory data analysis (EDA), model building, and deployment of the machine learning model as a web app**.
+This project is divided into multiple parts, with each demonstrating different stages of the bioinformatics project lifecycle. The main focus is on **data collection, molecular descriptor calculation, exploratory data analysis (EDA), model building, and deployment of the machine learning model as a web app**.
 
 ### Part 1: Dataset Collection
 - **Goal**: Collect a biological activity dataset.
